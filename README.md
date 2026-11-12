@@ -12,18 +12,18 @@
 
 I lead engineering teams, design the software and systems they build, and connect technology decisions to business goals. With a foundation in Computer Science, a Master's in Business Management and a love of clean architecture, I work at the intersection of technology, strategy and execution.
 
-<img src="assets/signal-chain.svg" alt="Signal chain: business goals, architecture, reliability, shipped products" width="100%">
+<img src="assets/workflow.svg" alt="How I work, from brief to release: brief (business goals), composition (strategy), arrangement (architecture), mixing (team leadership), mastering (reliability), release (delivery)" width="100%">
 
 ### Peak levels
 
 | | |
 |---|---|
-| 🎚️ **10-person team** | Led 9 developers and a QA engineer on a B2B SaaS CRM used by about 5,000 companies |
-| 🎧 **6 hires** | Assessed and hired 5 developers and the QA engineer, organized into cross-functional sub-teams |
-| 📈 **99.98% uptime** | From two major outages a month to 99.95% in six months, then 99.98% after re-architecting on AWS |
-| ☁️ **Cloud migration** | Led the move from DigitalOcean to AWS: architecture decision, design, provider and team |
-| 🔁 **Weekly releases** | Every product, from micro-frontends to API and infrastructure |
-| 🧩 **8+ client projects** | Led backend delivery and built an AWS CDK system for project infrastructure |
+| 🎚️ **Teams built** | 10+ people hired across umsatz.io, PotPay and CodNovation |
+| 🎧 **Teams led** | From startup teams and freelancer crews to a 10-person engineering team |
+| 🏗️ **Architecture owned** | Architected most client projects and integrations at Swenson He, PotPay's platform, and CodNovation's client and in-house products |
+| ☁️ **Cloud, from scratch and migrated** | Set up cloud infrastructure from the ground up and led migrations, including a full platform move from DigitalOcean to AWS |
+| 📈 **Reliability** | Took a SaaS platform from frequent outages to near-zero downtime |
+| 🧩 **Clients and projects** | 10+ clients and 20+ projects across freelance work, client services and my own company |
 
 <img src="assets/divider.svg" alt="" width="100%">
 
